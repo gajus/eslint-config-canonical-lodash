@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config-canonical-lodash",
+  "description": "Canonical ESLint (LoDash) Shareable Config",
+  "version": "1.2.1",
+  "main": "./index.js",
+  "author": {
+    "name": "Gajus Kuizinas",
+    "email": "gajus@gajus.com",
+    "url": "http://gajus.com"
+  },
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gajus/eslint-config-canonical-lodash"
+  },
+  "keywords": [
+    "eslint",
+    "canonical",
+    "lodash"
+  ],
+  "scripts": {
+    "test": ""
+  },
+  "devDependencies": {
+    "eslint": "^1.10.1"
+  },
+  "dependencies": {
+    "eslint-plugin-lodash3": "^0.2.1"
+  }
+}
