@@ -5,7 +5,7 @@
     "url": "http://gajus.com"
   },
   "dependencies": {
-    "eslint-plugin-lodash": "^1.0.4"
+    "eslint-plugin-lodash": "^1.0.5"
   },
   "description": "Canonical ESLint (lodash) Shareable Config",
   "devDependencies": {
