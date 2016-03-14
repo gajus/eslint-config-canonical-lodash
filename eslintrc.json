@@ -9,21 +9,21 @@
             "explicit"
         ],
         "lodash/collection-return": 1,
+        "lodash/identity-shorthand": [
+            1,
+            "always"
+        ],
         "lodash/matches-prop-shorthand": 1,
         "lodash/matches-shorthand": [
             1,
             "always",
             3
         ],
-        "lodash/identity-shorthand": [
-            1,
-            "always"
-        ],
-        "lodash/no-extra-args": 1,
-        "lodash/path-style": 0,
         "lodash/no-commit": 1,
         "lodash/no-double-unwrap": 1,
+        "lodash/no-extra-args": 1,
         "lodash/no-single-chain": 1,
+        "lodash/path-style": 0,
         "lodash/prefer-chain": 1,
         "lodash/prefer-compact": 1,
         "lodash/prefer-constant": 1,
@@ -38,7 +38,7 @@
         "lodash/prefer-invoke-map": 1,
         "lodash/prefer-is-nil": 1,
         "lodash/prefer-lodash-chain": 1,
-        "lodash/prefer-lodash-method": 1,
+        "lodash/prefer-lodash-method": 0,
         "lodash/prefer-lodash-typecheck": 1,
         "lodash/prefer-map": 1,
         "lodash/prefer-matches": 1,
