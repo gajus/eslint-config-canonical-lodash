@@ -8,6 +8,7 @@
             1,
             "explicit"
         ],
+        "lodash/collection-method-value": 1,
         "lodash/collection-return": 1,
         "lodash/identity-shorthand": [
             1,
@@ -35,6 +36,7 @@
             1,
             3
         ],
+        "lodash/prefer-includes": 1,
         "lodash/prefer-invoke-map": 1,
         "lodash/prefer-is-nil": 1,
         "lodash/prefer-lodash-chain": 1,
