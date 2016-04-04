@@ -27,7 +27,7 @@
         "lodash/path-style": 0,
         "lodash/prefer-chain": 1,
         "lodash/prefer-compact": 1,
-        "lodash/prefer-constant": 1,
+        "lodash/prefer-constant": 0,
         "lodash/prefer-filter": [
             1,
             3
