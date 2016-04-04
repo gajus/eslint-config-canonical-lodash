@@ -44,7 +44,7 @@
         "lodash/prefer-lodash-typecheck": 1,
         "lodash/prefer-map": 1,
         "lodash/prefer-matches": 1,
-        "lodash/prefer-noop": 1,
+        "lodash/prefer-noop": 0,
         "lodash/prefer-over-quantifier": 1,
         "lodash/prefer-reject": [
             1,
